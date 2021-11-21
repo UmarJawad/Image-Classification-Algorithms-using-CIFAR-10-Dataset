@@ -10,3 +10,6 @@ These are three algorithms or attempts at them, if anyone wants to use a ready m
 ## 3rd is an attempt to build a neural network, I have used both ANNs and CNNs, tweaked different parameters and tested the accuracies. Feel free to adjust to your linking.
 
 There is also a accuracy check function as well.
+
+
+<img width="233" alt="Ex4 All accuracies" src="https://user-images.githubusercontent.com/91838918/142758717-bc9ff385-37ce-49d8-a8a2-9e8936dc02c2.png">
